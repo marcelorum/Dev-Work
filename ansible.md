@@ -9,3 +9,6 @@ Ubuntu o Centos 8 o Rocky
 
 ## Set Ansible Tower
 RHEL 8
+
+## Set Playbooks
+Playbooks for Tower
